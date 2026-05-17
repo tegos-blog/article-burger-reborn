@@ -93,4 +93,4 @@ I reverted to the legacy SVG verbatim and kept the new top bun. The legacy SVG e
 Thanks for sticking around!
 Find me on [dev.to](https://dev.to/tegos), [linkedin](https://www.linkedin.com/in/ivan-mykhavko/), or you can check out my work on [github](https://github.com/tegos).
 
-**Notes from real-world Laravel.**
+**Laravel, after the happy path.**
