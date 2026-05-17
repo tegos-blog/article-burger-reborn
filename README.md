@@ -17,4 +17,4 @@ The radial menu shrank from a 780-line jQuery plugin to ~50 lines of trig. The s
 
 ## 📎 Read Full
 
-[Reincarnating a Decade-Old jQuery Project](https://dev.to/tegos/PLACEHOLDER)
+[Reincarnating a Decade-Old jQuery Project](https://dev.to/tegos/reincarnating-a-decade-old-jquery-project-26ob)
