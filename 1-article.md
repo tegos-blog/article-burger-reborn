@@ -1,7 +1,3 @@
-# Reincarnating a Decade-Old jQuery Project
-
-![Reincarnating a Decade-Old jQuery Project](assets/poster.jpg)
-
 Cleaning my old drive, I found `burger.zip` dated 2015. Inside: one of my first paid web gigs, a burger builder for a Swiss client. 
 Radial menu of ingredients, click one, it flies onto a bun, price ticks up in CHF. jQuery 1.7. I had to give it a second life.
 
